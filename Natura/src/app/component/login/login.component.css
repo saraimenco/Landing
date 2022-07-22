@@ -1,0 +1,16 @@
+
+/* BASIC */
+
+#suscripcion{  
+  border: solid black; margin: 40px;
+  margin-top: 0px;
+  padding: 10px;
+  width: 600px;
+  margin-left: 400px; border-radius: 20px;
+  background-color: #8FBC8B;
+}
+
+body{
+  height: 800px;
+  background-image: url(/assets/img/fondo.jpg);
+}
